@@ -1,2 +1,2 @@
 # Amazon-Affiliate-API
-A simple demonstration of Amazon's PAAPi using Python and Node
+A simple demonstration of Amazon's PAAPi in Python and Node
